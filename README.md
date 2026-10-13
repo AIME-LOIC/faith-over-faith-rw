@@ -1,6 +1,6 @@
 # Faith Over Fear RW — concept storefront
 
-An independent, responsive React/Vite redesign concept with a clean white editorial theme for Faith Over Fear RW. This is a standalone prototype and does not modify the existing production website.
+An independent, responsive React/Vite redesign concept for Faith Over Fear RW. This is a standalone prototype and does not modify the existing production website.
 
 ## Run locally
 
@@ -34,4 +34,3 @@ Place approved brand imagery in `public/images/` and update the `image` fields i
 ## Before real customers use it
 
 This is a frontend concept. Authentication, inventory, orders, payment verification, and MTN MoMo integration are not connected. Do not collect real passwords or payment information in this demo. Add a secure backend and confirm all product/pricing details with the brand before production.
-# faith-over-faith-rw
